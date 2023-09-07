@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RAJESHKHATUA
-- 👀 I’m currently pursuing B.E in ELectronics and communication engineering from university college of engineering,Osmania University 
+- 👀 I’m currently pursuing B.E in Electronics and communication engineering from university college of engineering,Osmania University 
 - 📫 you can reach out to me through linkedin  
 
 <!---
